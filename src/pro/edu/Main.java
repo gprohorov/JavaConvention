@@ -84,7 +84,7 @@ public class Main {
 
         final String[] array = myString.split(" ");
 
-      //  System.out.println(array[2]);
+      //  System.out.println(array[2]);-----------------------------------
 
         for (int i = 0; i <= array.length-1 ; i++) {
             System.out.println(array[i]);
